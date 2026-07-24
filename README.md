@@ -2,14 +2,14 @@
 
 ### Academic Background
 - **Branch:** Computer Science / Artificial Intelligence and Machine Learning
-- **Year:** 1st year
+- **Year:** 2nd year
 - **Institution:** VIT Bhopal University
 
 ### My Learning Goals
 I am currently focused on mastering web development and Python. Over the next few years, I hope to learn how to build scalable applications and dive deeper into AI-driven design tools.
 
 ### Tech Stack
-- **Languages:** Python, HTML/CSS, JavaScript
+- **Languages:** Python, HTML/CSS, Java.
 - **Tools:** Git, GitHub, VS Code
 
 *“Coding is the closest thing we have to magic.”*
